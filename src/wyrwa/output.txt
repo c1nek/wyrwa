@@ -1,0 +1,249 @@
+Aruba	null
+Antigua and Barbuda	null
+United Arab Emirates	Oman	Saudi Arabia
+Afghanistan	China	Iran	Pakistan	Tajikistan	Turkmenistan	Uzbekistan
+Algeria	Libya	Mali	Mauritania	Morocco	Niger	Tunisia	Western Sahara
+Azerbaijan	Armenia	Georgia	Iran	Russia	Turkey
+Albania	Greece	Kosovo	Macedonia	Montenegro	Serbia
+Armenia	Azerbaijan	Georgia	Iran	Turkey
+Andorra	France	Spain
+Angola	Congo	DR Congo	Namibia	Zambia
+American Samoa	null
+Argentina	Bolivia	Brazil	Chile	Paraguay	Uruguay
+Australia	null
+Austria	Czech Republic	Germany	Hungary	Italy	Liechtenstein	Slovakia	Slovenia	Switzerland
+Anguilla	null
+Antarctica	null
+Bahrain	null
+Barbados	null
+Botswana	Namibia	South Africa	Zimbabwe
+Bermuda	null
+Belgium	France	Germany	Luxembourg	Netherlands
+Bahamas	null
+Bangladesh	India	Myanmar [Burma]
+Belize	Guatemala	Mexico
+Bosnia and Herzegovina	Croatia	Montenegro	Serbia
+Bolivia	Argentina	Brazil	Chile	Paraguay	Peru
+Myanmar [Burma]	Bangladesh	China	India	Laos	Thailand
+Benin	Burkina Faso	Niger	Nigeria	Togo
+Belarus	Latvia	Lithuania	Poland	Russia	Ukraine
+Solomon Islands	null
+Brazil	Argentina	Bolivia	Colombia	French Guiana	Guyana	Paraguay	Peru	Suriname	Uruguay	Venezuela
+Bhutan	China	India
+Bulgaria	Greece	Macedonia	Romania	Serbia	Turkey
+Bouvet Island	null
+Brunei	Malaysia
+Burundi	DR Congo	Rwanda	Tanzania
+Canada	United States
+Cambodia	Laos	Thailand	Vietnam
+Chad	Cameroon	Central African Republic	Libya	Niger	Nigeria	Sudan
+Sri Lanka	null
+Republic of the Congo	Angola	Cameroon	Central African Republic	DR Congo	Gabon
+Democratic Republic of the Congo	Angola	Burundi	Central African Republic	Congo	Rwanda	South Sudan	Tanzania	Uganda	Zambia
+China	Afghanistan	Bhutan	India	Kazakhstan	Kyrgyzstan	Laos	Mongolia	Myanmar [Burma]	Nepal	North Korea	Pakistan	Russia	Tajikistan	Vietnam
+Chile	Argentina	Bolivia	Peru
+Cayman Islands	null
+Cocos [Keeling] Islands	null
+Cameroon	Central African Republic	Chad	Congo	Equatorial Guinea	Gabon	Nigeria
+Comoros	null
+Colombia	Brazil	Ecuador	Panama	Peru	Venezuela
+Northern Mariana Islands	null
+Costa Rica	Nicaragua	Panama
+Central African Republic	Cameroon	Chad	Congo	DR Congo	South Sudan	Sudan
+Cuba	United States
+Cape Verde	null
+Cook Islands	null
+Cyprus	null
+Denmark	Germany
+Djibouti	Eritrea	Ethiopia	Somalia
+Dominica	null
+Dominican Republic	Haiti
+Ecuador	Colombia	Peru
+Egypt	Israel	Libya	Palestine	Sudan
+Ireland	United Kingdom
+Equatorial Guinea	Cameroon	Gabon
+Estonia	Latvia	Russia
+Eritrea	Djibouti	Ethiopia	Sudan
+El Salvador	Guatemala	Honduras
+Ethiopia	Djibouti	Eritrea	Kenya	Somalia	South Sudan	Sudan
+Czech Republic	Austria	Germany	Poland	Slovakia
+French Guiana	Brazil	Suriname
+Finland	Norway	Russia	Sweden
+Fiji	null
+Falkland Islands	null
+Micronesia	null
+Faroe Islands	null
+French Polynesia	null
+France	Andorra	Belgium	Germany	Italy	Luxembourg	Monaco	Spain	Switzerland
+French Southern Territories	null
+Gambia	Senegal
+Gabon	Cameroon	Congo	Equatorial Guinea
+Georgia	Armenia	Azerbaijan	Russia	Turkey
+Ghana	Burkina Faso	Ivory Coast	Togo
+Gibraltar	Spain
+Grenada	null
+Guernsey	null
+Greenland	null
+Germany	Austria	Belgium	Czech Republic	Denmark	France	Luxembourg	Netherlands	Poland	Switzerland
+Guadeloupe	null
+Guam	null
+Greece	Albania	Bulgaria	Macedonia	Turkey
+Guatemala	Belize	El Salvador	Honduras	Mexico
+Guinea	Guinea-Bissau	Ivory Coast	Liberia	Mali	Senegal	Sierra Leone
+Guyana	Brazil	Suriname	Venezuela
+Haiti	Dominican Republic
+Hong Kong	null
+Heard Island and McDonald Islands	null
+Honduras	El Salvador	Guatemala	Nicaragua
+Croatia	Bosnia and Herzegovina	Hungary	Montenegro	Serbia	Slovenia
+Hungary	Austria	Croatia	Romania	Serbia	Slovakia	Slovenia	Ukraine
+Iceland	null
+Indonesia	East Timor	Malaysia	Papua New Guinea
+Isle of Man	null
+India	Bangladesh	Bhutan	China	Myanmar [Burma]	Nepal	Pakistan
+British Indian Ocean Territory	null
+Iran	Afghanistan	Armenia	Azerbaijan	Iraq	Pakistan	Turkey	Turkmenistan
+Israel	Egypt	Jordan	Lebanon	Palestine	Syria
+Italy	Austria	France	San Marino	Slovenia	Switzerland	Vatican City
+Ivory Coast	Burkina Faso	Ghana	Guinea	Liberia	Mali
+Iraq	Iran	Jordan	Kuwait	Saudi Arabia	Syria	Turkey
+Japan	null
+Jersey	null
+Jamaica	null
+Jordan	Iraq	Israel	Palestine	Saudi Arabia	Syria
+Kenya	Ethiopia	Somalia	South Sudan	Tanzania	Uganda
+Kyrgyzstan	China	Kazakhstan	Tajikistan	Uzbekistan
+North Korea	China	Russia	South Korea
+Kiribati	null
+South Korea	North Korea
+Christmas Island	null
+Kuwait	Iraq	Saudi Arabia
+Kosovo	Albania	Macedonia	Montenegro	Serbia
+Kazakhstan	China	Kyrgyzstan	Russia	Turkmenistan	Uzbekistan
+Laos	Cambodia	China	Myanmar [Burma]	Thailand	Vietnam
+Lebanon	Israel	Syria
+Latvia	Belarus	Estonia	Lithuania	Russia
+Lithuania	Belarus	Latvia	Poland	Russia
+Liberia	Guinea	Ivory Coast	Sierra Leone
+Slovakia	Austria	Czech Republic	Hungary	Poland	Ukraine
+Liechtenstein	Austria	Switzerland
+Lesotho	South Africa
+Luxembourg	Belgium	France	Germany
+Libya	Algeria	Chad	Egypt	Niger	Sudan	Tunisia
+Madagascar	null
+Martinique	null
+Macao	null
+Moldova	Romania	Ukraine
+Mayotte	null
+Mongolia	China	Russia
+Montserrat	null
+Malawi	Mozambique	Tanzania	Zambia
+Montenegro	Albania	Bosnia and Herzegovina	Croatia	Kosovo	Serbia
+Macedonia	Albania	Bulgaria	Greece	Kosovo	Serbia
+Mali	Algeria	Burkina Faso	Guinea	Ivory Coast	Mauritania	Niger	Senegal
+Monaco	France
+Morocco	Algeria	Spain	Western Sahara
+Mauritius	null
+Mauritania	Algeria	Mali	Senegal	Western Sahara
+Malta	null
+Oman	Saudi Arabia	United Arab Emirates	Yemen
+Maldives	null
+Mexico	Belize	Guatemala	United States
+Malaysia	Brunei	Indonesia	Thailand
+Mozambique	Malawi	South Africa	Swaziland	Tanzania	Zambia	Zimbabwe
+New Caledonia	null
+Niue	null
+Norfolk Island	null
+Niger	Algeria	Benin	Burkina Faso	Chad	Libya	Mali	Nigeria
+Vanuatu	null
+Nigeria	Benin	Cameroon	Chad	Niger
+Netherlands	Belgium	Germany
+Sint Maarten	Saint Martin
+Norway	Finland	Russia	Sweden
+Nepal	China	India
+Nauru	null
+Suriname	Brazil	French Guiana	Guyana
+	null
+Nicaragua	Costa Rica	Honduras
+New Zealand	null
+South Sudan	Central African Republic	DR Congo	Ethiopia	Kenya	Sudan	Uganda
+Paraguay	Argentina	Bolivia	Brazil
+Pitcairn Islands	null
+Peru	Bolivia	Brazil	Chile	Colombia	Ecuador
+Pakistan	Afghanistan	China	India	Iran
+Poland	Belarus	Czech Republic	Germany	Lithuania	Russia	Slovakia	Ukraine
+Panama	Colombia	Costa Rica
+Portugal	Spain
+Papua New Guinea	Indonesia
+Palau	null
+Guinea-Bissau	Guinea	Senegal
+Qatar	Saudi Arabia
+Réunion	null
+Serbia	Albania	Bosnia and Herzegovina	Bulgaria	Croatia	Hungary	Kosovo	Macedonia	Montenegro	Romania
+Marshall Islands	null
+Saint Martin	Sint Maarten
+Romania	Bulgaria	Hungary	Moldova	Serbia	Ukraine
+Philippines	null
+Puerto Rico	null
+Russia	Azerbaijan	Belarus	China	Estonia	Finland	Georgia	Kazakhstan	Latvia	Lithuania	Mongolia	North Korea	Norway	Poland	Ukraine
+Rwanda	Burundi	DR Congo	Tanzania	Uganda
+Saudi Arabia	Iraq	Jordan	Kuwait	Oman	Qatar	United Arab Emirates	Yemen
+Saint Pierre and Miquelon	null
+Saint Kitts and Nevis	null
+Seychelles	null
+South Africa	Botswana	Lesotho	Mozambique	Namibia	Swaziland	Zimbabwe
+Senegal	Gambia	Guinea	Guinea-Bissau	Mali	Mauritania
+Saint Helena	null
+Slovenia	Austria	Croatia	Hungary	Italy
+Sierra Leone	Guinea	Liberia
+San Marino	Italy
+Singapore	null
+Somalia	Djibouti	Ethiopia	Kenya
+Spain	Andorra	France	Gibraltar	Morocco	Portugal
+Saint Lucia	null
+Sudan	Central African Republic	Chad	Egypt	Eritrea	Ethiopia	Libya	South Sudan
+Svalbard and Jan Mayen	null
+Sweden	Finland	Norway
+South Georgia and the South Sandwich Islands	null
+Syria	Iraq	Israel	Jordan	Lebanon	Turkey
+Switzerland	Austria	France	Germany	Italy	Liechtenstein
+Saint Barthélemy	null
+Trinidad and Tobago	null
+Thailand	Cambodia	Laos	Malaysia	Myanmar [Burma]
+Tajikistan	Afghanistan	China	Kyrgyzstan	Uzbekistan
+Turks and Caicos Islands	null
+Tokelau	null
+Tonga	null
+Togo	Benin	Burkina Faso	Ghana
+Sao Tomé and Príncipe	null
+Tunisia	Algeria	Libya
+East Timor	Indonesia
+Turkey	Armenia	Azerbaijan	Bulgaria	Georgia	Greece	Iran	Iraq	Syria
+Tuvalu	null
+Taiwan	null
+Turkmenistan	Afghanistan	Iran	Kazakhstan	Uzbekistan
+Tanzania	Burundi	DR Congo	Kenya	Malawi	Mozambique	Rwanda	Uganda	Zambia
+Curacao	null
+Uganda	DR Congo	Kenya	Rwanda	South Sudan	Tanzania
+United Kingdom	Ireland
+Ukraine	Belarus	Hungary	Moldova	Poland	Romania	Russia	Slovakia
+United States	Canada	Cuba	Mexico
+Burkina Faso	Benin	Ghana	Ivory Coast	Mali	Niger	Togo
+Uruguay	Argentina	Brazil
+Uzbekistan	Afghanistan	Kazakhstan	Kyrgyzstan	Tajikistan	Turkmenistan
+Saint Vincent and the Grenadines	null
+Venezuela	Brazil	Colombia	Guyana
+British Virgin Islands	null
+Vietnam	Cambodia	China	Laos
+U.S. Virgin Islands	null
+Vatican City	Italy
+Namibia	Angola	Botswana	South Africa	Zambia
+Palestine	Egypt	Israel	Jordan
+Wallis and Futuna	null
+Western Sahara	null
+Samoa	null
+Swaziland	Mozambique	South Africa
+	null
+Yemen	Oman	Saudi Arabia
+Zambia	Angola	DR Congo	Malawi	Mozambique	Namibia	Tanzania	Zimbabwe
+Zimbabwe	Botswana	Mozambique	South Africa	Zambia
